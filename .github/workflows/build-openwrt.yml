@@ -15,6 +15,7 @@ on:
       - master
     paths:
       - '.config'
+      - '.github\workflows\build-openwrt.yml'
 #  schedule:
 #    - cron: 0 8 * * 5
 #  watch:
